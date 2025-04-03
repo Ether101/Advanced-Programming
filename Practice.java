@@ -1,10 +1,8 @@
-// Practice.java
-
 import java.util.ArrayList;
 import java.util.List;
 
 /**
- * Represents a practice session.
+ * This part below represents a practice session.
  */
 public class Practice {
     private List<Vocabulary> vocabularyList;
@@ -20,8 +18,6 @@ public class Practice {
 
     /**
      * Adds a vocabulary word to the practice session.
-     * 
-     * @param vocabulary the vocabulary word to add
      */
     public void addVocabulary(Vocabulary vocabulary) {
         vocabularyList.add(vocabulary);
