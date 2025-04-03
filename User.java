@@ -1,7 +1,5 @@
-// User.java
-
 /**
- * Represents a user's language learning profile.
+ * This herrepresents a user's language learning profile.
  */
 public class User {
     private String name;
@@ -9,11 +7,7 @@ public class User {
     private int level;
 
     /**
-     * Constructor for the User class.
-     * 
-     * @param name     the user's name
-     * @param language the language being learned
-     * @param level    the user's current level (1-5)
+     * Constructor for the User ,class.
      */
     public User(String name, String language, int level) {
         this.name = name;
