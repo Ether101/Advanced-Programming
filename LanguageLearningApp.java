@@ -1,9 +1,7 @@
-// LanguageLearningApp.java
-
 import java.util.Scanner;
 
 /**
- * The main class for the language learning application.
+ * This is the main class for the language learning application.
  */
 public class LanguageLearningApp {
     public static void main(String[] args) {
