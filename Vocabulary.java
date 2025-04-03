@@ -1,7 +1,5 @@
-// Vocabulary.java
-
 /**
- * Represents a vocabulary word.
+ * This here represents  a vocabulary word.
  */
 public class Vocabulary {
     private String word;
@@ -9,9 +7,6 @@ public class Vocabulary {
 
     /**
      * Constructor for the Vocabulary class.
-     * 
-     * @param word       the vocabulary word
-     * @param translation the translation of the word
      */
     public Vocabulary(String word, String translation) {
         this.word = word;
